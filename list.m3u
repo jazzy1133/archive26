@@ -156,6 +156,12 @@ https://mcncdndigital.com/worldpunjabitv/index.m3u8
 http://cdn12.henico.net:8080/live/gsctv/index.m3u8
 #EXTINF:-1 tvg-id="SteelbirdMusic.in@SD" tvg-name="Steelbird Music (720p) (Alt 2)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="Punjabi",Steelbird Music (720p) (Alt 2)
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony MAX HD" group-title="Hindi Movies",Sony MAX HD
+https://stream.ottplus.live/live/max_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony MAX" group-title="Hindi Movies",Sony MAX
+https://stream.ottplus.live/live/sony_max_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bollywood" group-title="Hindi Movies",Zee Bollywood
+https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
 #EXTINF:-1 tvg-id="AllTimeMovies.in@SD" tvg-name="All Time Movies (576p)" tvg-logo="https://yt3.googleusercontent.com/U4INXhwmEUOABHoemQBpI6C9t4jb9iBmDvZ3ZT3lAb9Au_jVl32NL8XDpy-9cBjRJ2LP69Ovzg=s900-c-k-c0x00ffffff-no-rj" group-title="Hindi Movies",All Time Movies (576p)
 https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 #EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-name="B4U Kadak (576p)" tvg-logo="https://dtil.tmsimg.com/assets/s142695_ld_h15_aa.png?lock=720x540" group-title="Hindi Movies",B4U Kadak (576p)
@@ -204,10 +210,26 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
 #EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-name="Zee TV HD (720p)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi",Zee TV HD (720p)
 http://41.205.93.154/ZEE-TV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee TV HD (APAC)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi",Zee TV HD (APAC)
+https://da86m1sqpm3o0.cloudfront.net/260723/smil:zeetvapachd.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee TV HD (Alt 2)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Hindi",Zee TV HD (Alt 2)
+https://raw.githubusercontent.com/myfriendqaz/LiveTVCollector/main/BugsfreeStreams/StreamsTV-BD/ent_zee_tv_hd_50e28830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus (AU)" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Hindi",Star Plus (AU)
+https://catchup.yuppcdn.net/amazonv2/36/preview/starplusau/master/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus (UK) (Alt 2)" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Hindi",Star Plus (UK) (Alt 2)
+https://catchup.yuppcdn.net/amazonv2/36/preview/starplusuk/master/chunklist.m3u8
 #EXTINF:-1 tvg-id="StarPlus.uk@SD" tvg-name="Star Plus (UK) (576p)" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Hindi",Star Plus (UK) (576p)
 https://d1rc86nwwc9fag.cloudfront.net/260723/starplusuk_2500/chunks.m3u8
 #EXTINF:-1 tvg-id="UtsavPlus.uk@SD" tvg-name="Utsav Plus (Star Plus UK) (720p)" tvg-logo="https://i.imgur.com/TERVtWT.png" group-title="Hindi",Utsav Plus (Star Plus UK) (720p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavPlus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors (UK)" group-title="Hindi",Colors (UK)
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsuk/master/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors HD (Alt 2)" group-title="Hindi",Colors HD (Alt 2)
+http://103.135.253.32:8080/Color-HD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Colors Rishtey (UK)" group-title="Hindi",Colors Rishtey (UK)
+https://catchup.yuppcdn.net/amazonv2/36/preview/rishteyuk/master/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="&TV HD (USA)" group-title="Hindi",&TV HD (USA)
+https://285abc3a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQW5kVFZfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="StarBharat.uk@SD" tvg-name="Star Bharat (576p)" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="Hindi",Star Bharat (576p)
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/gb/YuppTV/UtsavBharat.m3u8
 #EXTINF:-1 tvg-id="UtsavBharat.uk@SD" tvg-name="Utsav Bharat (720p)" tvg-logo="https://i.imgur.com/IQ2n0WY.png" group-title="Hindi",Utsav Bharat (720p)
